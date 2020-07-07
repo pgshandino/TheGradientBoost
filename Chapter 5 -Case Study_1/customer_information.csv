@@ -1,0 +1,101 @@
+,No,Customer,Age,City,Product,Limit,Company,Segment
+0,1,A1,76,Nairobi,Gold,500000.0,C1,Self Employed
+1,2,A2,71,Mombasa,Silver,100000.0,C2,Salaried_MNC
+2,3,A3,34,Kisumu,Platimum,10000.0,C3,Salaried_Pvt
+3,4,A4,47,Nakuru,Platimum,10001.0,C4,Govt
+4,5,A5,56,Nairobi,Platimum,10002.0,C5,Normal Salary
+5,6,A6,70,Eldoret,Silver,100000.0,C6,Self Employed
+6,7,A7,26,Kisumu,Silver,100001.0,C7,Salaried_MNC
+7,8,A8,67,Malindi,Silver,100002.0,C8,Salaried_Pvt
+8,9,A9,79,Thika,Silver,100003.0,C9,Govt
+9,10,A10,54,Mombasa,Gold,500000.0,C10,Normal Salary
+10,11,A11,35,Kisumu,Gold,500000.0,C11,Normal Salary
+11,12,A12,51,Nakuru,Gold,500000.0,C12,Self Employed
+12,13,A13,29,Nairobi,Gold,500000.0,C13,Salaried_MNC
+13,14,A14,16,Nairobi,Gold,500000.0,C14,Salaried_Pvt
+14,15,A15,25,Mombasa,Gold,500000.0,C15,Govt
+15,16,A16,52,Kisumu,Gold,500000.0,C16,Normal Salary
+16,17,A17,78,Nakuru,Gold,500000.0,C17,Self Employed
+17,18,A18,34,Nairobi,Silver,100000.0,C18,Salaried_MNC
+18,19,A19,27,Nairobi,Platimum,10000.0,C19,Salaried_Pvt
+19,20,A20,27,Mombasa,Platimum,10001.0,C20,Govt
+20,21,A21,57,Kisumu,Platimum,10002.0,C21,Normal Salary
+21,22,A22,27,Nakuru,Silver,100000.0,C22,Self Employed
+22,23,A23,51,Nairobi,Silver,100001.0,C5,Salaried_MNC
+23,24,A24,53,Eldoret,Silver,100002.0,C6,Salaried_Pvt
+24,25,A25,35,Kisumu,Silver,100003.0,C7,Govt
+25,26,A26,38,Malindi,Gold,500000.0,C8,Normal Salary
+26,27,A27,24,Thika,Gold,500000.0,C9,Self Employed
+27,28,A28,36,Kitale,Gold,500000.0,C10,Salaried_MNC
+28,29,A29,72,Mombasa,Gold,500000.0,C11,Salaried_Pvt
+29,30,A30,25,Nairobi,Gold,500000.0,C12,Govt
+30,31,A31,63,Mombasa,Gold,500000.0,C13,Normal Salary
+31,32,A32,41,Kisumu,Gold,500000.0,C14,Self Employed
+32,33,A33,19,Nakuru,Platimum,10002.0,C15,Salaried_MNC
+33,34,A34,34,Mombasa,Platimum,100000.0,C16,Salaried_Pvt
+34,35,A35,55,Kisumu,Platimum,100001.0,C17,Govt
+35,36,A36,60,Nakuru,Platimum,100002.0,C18,Normal Salary
+36,37,A37,61,Nairobi,Platimum,100003.0,C19,Normal Salary
+37,38,A38,47,Thika,Platimum,500000.0,C20,Self Employed
+38,39,A39,78,Kitale,Platimum,500000.0,C21,Salaried_MNC
+39,40,A40,37,Mombasa,Platimum,500000.0,C22,Salaried_Pvt
+40,41,A41,13,Kisumu,Platimum,500000.0,C23,Govt
+41,42,A42,50,Nakuru,Gold,500000.0,C24,Normal Salary
+42,43,A43,21,Nairobi,Gold,500000.0,C25,Self Employed
+43,44,A44,28,Eldoret,Gold,500000.0,C6,Salaried_MNC
+44,45,A45,67,Kisumu,Gold,500000.0,C7,Salaried_Pvt
+45,46,A46,49,Malindi,Silver,100000.0,C8,Govt
+46,47,A47,28,Thika,Platimum,10000.0,C9,Normal Salary
+47,48,A48,42,Kitale,Platimum,10001.0,C10,Self Employed
+48,49,A49,39,Mombasa,Platimum,10002.0,C11,Salaried_MNC
+49,50,A50,69,Kisumu,Platimum,100000.0,C12,Salaried_Pvt
+50,51,A51,59,Nakuru,Platimum,100001.0,C13,Govt
+51,52,A52,50,Nairobi,Platimum,100002.0,C14,Normal Salary
+52,53,A53,21,Eldoret,Platimum,100003.0,C15,Normal Salary
+53,54,A54,46,Kisumu,Platimum,500000.0,C16,Normal Salary
+54,55,A55,43,Malindi,Platimum,500000.0,C17,Normal Salary
+55,56,A56,60,Thika,Platimum,500000.0,C18,Normal Salary
+56,57,A57,37,Kitale,Silver,100001.0,C19,Normal Salary
+57,58,A58,32,Mombasa,Silver,100002.0,C20,Normal Salary
+58,59,A59,74,Nairobi,Silver,100003.0,C21,Normal Salary
+59,60,A60,28,Mombasa,Gold,500000.0,C22,Salaried_Pvt
+60,61,A61,44,Kisumu,Gold,500000.0,C23,Govt
+61,62,A62,39,Nakuru,Gold,500000.0,C24,Normal Salary
+62,63,A63,15,Nairobi,Gold,500000.0,C25,Self Employed
+63,64,A64,77,Eldoret,Gold,500000.0,C26,Salaried_MNC
+64,65,A65,41,Kisumu,Gold,500000.0,C27,Salaried_Pvt
+65,66,A66,77,Malindi,Gold,500000.0,C28,Govt
+66,67,A67,54,Thika,Gold,500000.0,C29,Normal Salary
+67,68,A68,12,Kitale,Silver,100000.0,C30,Self Employed
+68,69,A69,33,Mombasa,Platimum,10000.0,C31,Self Employed
+69,70,A70,16,Nakuru,Platimum,10001.0,C32,Self Employed
+70,71,A71,34,Nakuru,Platimum,10002.0,C33,Self Employed
+71,72,A72,63,Nairobi,Silver,100000.0,C34,Self Employed
+72,73,A73,75,Mombasa,Silver,100001.0,C35,Self Employed
+73,74,A74,51,Kisumu,Silver,100002.0,C36,Self Employed
+74,75,A75,36,Nakuru,Silver,100003.0,C37,Self Employed
+75,76,A76,66,Nairobi,Silver,500000.0,C38,Self Employed
+76,77,A77,35,Nairobi,Silver,500000.0,C39,Self Employed
+77,78,A78,71,Mombasa,Silver,500000.0,C40,Self Employed
+78,79,A79,60,Kisumu,Silver,500000.0,C41,Govt
+79,80,A80,39,Nakuru,Silver,500000.0,C3,Govt
+80,81,A81,65,Nairobi,Gold,500000.0,C4,Govt
+81,82,A82,52,Eldoret,Gold,500000.0,C5,Govt
+82,83,A83,37,Kisumu,Platimum,10002.0,C6,Govt
+83,84,A84,70,Malindi,Silver,100000.0,C7,Govt
+84,85,A85,59,Thika,Silver,100001.0,C8,Govt
+85,86,A86,25,Kitale,Silver,100002.0,C9,Govt
+86,87,A87,27,Mombasa,Silver,100003.0,C10,Govt
+87,88,A88,63,Nairobi,Gold,500000.0,C11,Govt
+88,89,A89,72,Mombasa,Gold,500000.0,C12,Govt
+89,90,A90,16,Kisumu,Gold,500000.0,C13,Govt
+90,91,A91,41,Nakuru,Gold,500000.0,C14,Govt
+91,92,A92,78,Nairobi,Gold,500000.0,C15,Govt
+92,93,A93,56,Eldoret,Gold,500000.0,C16,Govt
+93,94,A94,31,Kisumu,Gold,500000.0,C17,Govt
+94,95,A95,62,Malindi,Gold,500000.0,C18,Salaried_MNC
+95,96,A96,54,Thika,Silver,100000.0,C19,Salaried_Pvt
+96,97,A97,58,Kitale,Platimum,10000.0,C20,Govt
+97,98,A98,51,Mombasa,Platimum,10001.0,C21,Normal Salary
+98,99,A99,35,Mombasa,Platimum,10002.0,C22,Self Employed
+99,100,A100,36,Kisumu,Silver,100000.0,C5,Salaried_MNC
